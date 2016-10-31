@@ -24,5 +24,6 @@
     { "name": "Coral", "author": "MagicPigeon", "url": "coral"},
     { "name": "CamsPP Old", "author": "Cam", "url": "camsppold"},
     { "name": "CamsPP Dark", "author": "Cam", "url": "camsppdark"},
-    { "name": "Sharp", "author": "MagicPigeon", "url": "sharp"}
+    { "name": "Sharp", "author": "MagicPigeon", "url": "sharp"}, 
+    { "name": "TerminalPX", "author": "pooppants", "url": "terminalpx"}
 ]
