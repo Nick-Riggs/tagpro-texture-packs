@@ -28,5 +28,9 @@
     { "name": "Mural", "author": "DaEvil1", "url": "mural"},
     { "name": "Circlejerk", "author": "Bizkut and Ion", "url": "circlejerk"},
     { "name": "Supreme", "author": "bicycle", "url": "supreme"},
-    { "name": "TerminalPX", "author": "pooppants", "url": "terminalpx"}
+    { "name": "TerminalPX", "author": "pooppants", "url": "terminalpx"},
+    { "name": "Bold", "author": "MagicPigeon", "url": "bold"},
+    { "name": "Maxima", "author": "MagicPigeon", "url": "maxima"},
+    { "name": "Mumbo", "author": "MagicPigeon", "url": "mumbo"},
+    { "name": "24K", "author": "MagicPigeon", "url": "24k"}
 ]
