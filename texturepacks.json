@@ -33,6 +33,7 @@
     { "name": "Maxima", "author": "MagicPigeon", "url": "maxima"},
     { "name": "Mumbo", "author": "MagicPigeon", "url": "mumbo"},
     { "name": "24K", "author": "MagicPigeon", "url": "24k"},
+    { "name": "Turbo", "author": "Ooops", "url": "turbo"},
     { "name": "Galvanize", "author": "anom", "url": "galvanize"},
     { "name": "Precision Dark", "author": "Peach Fuzz", "url": "precisiondark"}
 ]
