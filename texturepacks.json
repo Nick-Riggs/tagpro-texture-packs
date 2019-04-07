@@ -35,5 +35,6 @@
     { "name": "24K", "author": "MagicPigeon", "url": "24k"},
     { "name": "Turbo", "author": "Ooops", "url": "turbo"},
     { "name": "Galvanize", "author": "anom", "url": "galvanize"},
-    { "name": "Precision Dark", "author": "Peach Fuzz", "url": "precisiondark"}
+    { "name": "Precision Dark", "author": "Peach Fuzz", "url": "precisiondark"},
+	{ "name": "Chip", "author": "anom", "url": "chip"}
 ]
