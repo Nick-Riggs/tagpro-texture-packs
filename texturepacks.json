@@ -36,5 +36,9 @@
     { "name": "Turbo", "author": "Ooops", "url": "turbo"},
     { "name": "nom", "author": "nom", "url": "nom"},
     { "name": "Precision Dark", "author": "Peach Fuzz", "url": "precisiondark"},
-    { "name": "Chip", "author": "nom", "url": "chip"}
+    { "name": "Chip", "author": "nom", "url": "chip"},
+    { "name": "Wave", "author": "Waterwheel", "url": "wave"},
+    { "name": "Bowling", "author": "_Coffee_", "url": "bowling"},
+    { "name": "Xmas", "author": "jazzz", "url": "xmas"},
+    { "name": "Yin & Yang", "author": "_Coffee_", "url": "yinyang"}
 ]
