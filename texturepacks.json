@@ -40,5 +40,12 @@
     { "name": "Wave", "author": "Waterwheel", "url": "wave"},
     { "name": "Bowling", "author": "_Coffee_", "url": "bowling"},
     { "name": "Xmas", "author": "jazzz", "url": "xmas"},
-    { "name": "Yin & Yang", "author": "_Coffee_", "url": "yinyang"}
+    { "name": "Yin & Yang", "author": "_Coffee_", "url": "yinyang"},
+    { "name": "Twine", "author": "Flaccid Trip", "url": "twine"},
+    { "name": "Supreme Shine", "author": "Flaccid Trip", "url": "supremeshine"},
+    { "name": "Ancient Gems", "author": "Flaccid Trip ft. jazzz", "url": "ancientgems"},
+    { "name": "Return", "author": "Flaccid Trip", "url": "return"},
+    { "name": "Spongepack", "author": "_Coffee_", "url": "spongepack"},
+    { "name": "Granata", "author": "_Coffee_", "url": "granata"},
+    { "name": "Afloat", "author": "Pingu", "url": "afloat"}
 ]
