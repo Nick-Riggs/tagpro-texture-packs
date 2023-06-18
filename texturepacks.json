@@ -34,9 +34,9 @@
     { "name": "Mumbo", "author": "MagicPigeon", "url": "mumbo"},
     { "name": "24K", "author": "MagicPigeon", "url": "24k"},
     { "name": "Turbo", "author": "Ooops", "url": "turbo"},
-    { "name": "nom", "author": "nom", "url": "nom"},
+    { "name": "nom", "author": "anom", "url": "nom"},
     { "name": "Precision Dark", "author": "Peach Fuzz", "url": "precisiondark"},
-    { "name": "Chip", "author": "nom", "url": "chip"},
+    { "name": "Chip", "author": "anom", "url": "chip"},
     { "name": "Wave", "author": "Waterwheel", "url": "wave"},
     { "name": "Bowling", "author": "_Coffee_", "url": "bowling"},
     { "name": "Xmas", "author": "jazzz", "url": "xmas"},
@@ -48,5 +48,6 @@
     { "name": "Spongepack", "author": "_Coffee_", "url": "spongepack"},
     { "name": "Granata", "author": "_Coffee_", "url": "granata"},
     { "name": "Afloat", "author": "Pingu", "url": "afloat"},
-    { "name": "Jello", "author": "MC Ride", "url": "jello"}
+    { "name": "Jello", "author": "MC Ride", "url": "jello"},
+    { "name": "Softpaint", "author": "Xcissors ft. anom", "url": "softpaint"}
 ]
