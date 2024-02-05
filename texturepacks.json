@@ -50,5 +50,9 @@
     { "name": "Afloat", "author": "Pingu", "url": "afloat"},
     { "name": "Jello", "author": "MC Ride", "url": "jello"},
     { "name": "Softpaint", "author": "Xcissors ft. anom", "url": "softpaint"},
-    { "name": "Brioche Deluxe", "author": "Bumballbee and Brioche", "url": "briochedeluxe"}
+    { "name": "Brioche Deluxe", "author": "Bumballbee and Brioche", "url": "briochedeluxe"},
+    { "name": "Brioche Light", "author": "Brioche", "url": "briochelight"},
+    { "name": "Brioche Extra Light", "author": "Brioche", "url": "briocheextralight"},
+    { "name": "Funko", "author": "MC Ride", "url": "funko"},
+    { "name": "TagPro Next Classic", "author": "KoalaBeast, MagicPigeon, Ronding", "url": "tagpronextclassic"}
 ]
