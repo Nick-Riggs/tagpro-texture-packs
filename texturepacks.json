@@ -54,5 +54,6 @@
     { "name": "Brioche Light", "author": "Brioche", "url": "briochelight"},
     { "name": "Brioche Extra Light", "author": "Brioche", "url": "briocheextralight"},
     { "name": "Funko", "author": "MC Ride", "url": "funko"},
-    { "name": "TagPro Next Classic", "author": "KoalaBeast, MagicPigeon, Ronding", "url": "tagpronextclassic"}
+    { "name": "TagPro Next Classic", "author": "KoalaBeast, MagicPigeon, Ronding", "url": "tagpronextclassic"},
+    { "name": "Blacklight", "author": "MC Ride", "url": "blacklight"}
 ]
