@@ -1,0 +1,8 @@
+{
+  "name": "tagpro-texture-packs",
+  "version": "1.0.0",
+  "dependencies": {
+    "pngcrush": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
