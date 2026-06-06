@@ -2,4 +2,13 @@
 
 These texture packs are the packs that appear in the TagPro texture picker. 
 
-If you'd like your texture pack considered for inclusion, please create a pull request. If you don't know how to do that, email your texture pack to classicpackisbest@koalabeast.com along with unrestricted permission to use the assets.
+If you'd like your texture pack considered for inclusion, please
+submit a SharePack to the Maptest Committee on Discord.
+
+   * [SharePack Info](https://www.reddit.com/r/TagPro/wiki/modding/texture-packs/#wiki_sharepacks)
+   * [Discord Server](https://discord.gg/hhW3MDzrt3)
+
+## For TagPro Developers
+
+Please follow the instructions on the TagPro GitHub wiki page for
+adding new texture packs to this repo.
